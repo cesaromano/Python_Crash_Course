@@ -1,0 +1,3 @@
+# Introducir variables dentro de string y formato al texto de la varibale
+name = "romano"
+print(f"Hola, {name.title()} desearias irte a la chingada el dia de hoy?")

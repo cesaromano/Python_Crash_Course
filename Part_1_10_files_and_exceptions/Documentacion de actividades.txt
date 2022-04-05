@@ -1,0 +1,891 @@
+TYT 
+
+SEMANA 1
+
+972020
+
+	- Revision de la unidad 1 de transicion
+	- Busqueda y solucion de fallas
+	- Hipervincular tareas dentro de las lecciones
+	- Documento para las indicaciones generales para creacion de unidades (tomar documentos como base)
+	- Archivo drive con fallas en plataforma
+
+982020
+
+	- Revision y correccion de la unidad uno para pensamiento social de 1 grado a 5 grado
+
+992020
+
+	- Continua la revision y correccion de la unidad uno para pensamiento social de 1 grado a 5 grado
+	- Finalizacion del control de la unidad uno para pensamiento social de 1 grado a 5 grado (generacion 
+	de informe.
+	- Inicio del control de la unidad uno para pensamiento social del grado 4
+	- Finalizacion del control de la unidad uno para pensamiento social del grado 4 (no generacion de informe)
+
+9102020
+
+	- Correcion formato control de unidades PS5B1U1
+	- FCU - PS4_B1_U1
+	- Inicio correcion PS3_B1_U1
+	- Finalizacion correcion PS3_B1_U1 (formato control unidades)
+	- Inicio correcion PS2_B1_U1
+	- Finalizacion correcion PS2_B1_U1 (formato control unidades)
+	- Inicio correcion PS1_B1_U1
+	- Finalizacion correcion PS1_B1_U1 (formato control unidades)
+
+9112020
+
+	- Se necesita estructurar todo sociales (4 bimestres con 4 unidades)
+	- Inicio correcion PS5_B1_U2
+	- Finalizacion correcion PS5_B1_U2 (formato control unidades)
+	- Inicio correccion TRANSICIÓN_B1_U2
+	- Finalizacion correccion TRANSICIÓN_B1_U2 (formato control unidades, sin corregir)
+
+9132020
+
+	- Revision de la falla que sobreescribe los documentos copiados
+
+9142020 08:00 - 13:18
+
+	- Respuesta a la falla planteada en la sesion anterior
+	- Video argumentando la respuesta
+	- 	Inicio correccion PS_B1_U2
+	- 		Inicio correcion PS4_B1_U2
+	- 		Finalizacion correccion PS4_B1_U2 (formato control unidades)
+
+9152020 07:09 - 12:05
+
+	- 		Inicio correcion PS3_B1_U2
+	- 		Finalizacion correccion PS3_B1_U2 (formato control unidades)
+	- 		Inicio correcion PS2_B1_U2
+	- 		Finalizacion correccion PS2_B1_U2 (formato control unidades)
+	- 		Inicio correcion PS1_B1_U2
+	- 		Finalizacion correccion PS1_B1_U2 (formato control unidades)
+
+9162020 07:05 - 12:05
+
+	- Inicio correccion PS_B1_U3
+	- 	Inicio correcion PS1_B1_U3
+	- 	Finalizacion correccion PS1_B1_U3 (formato control unidades)
+	- 	Inicio correcion PS2_B1_U3
+	- Descarga de backup 9 de agosto
+
+9162020 15:00 - 18:00
+
+	- Descarga de backup 9 de agosto
+
+9172020 10:39 - 12:39
+
+	- Descarga de backup 9 de agosto
+
+9172020 15:10 - 16:43
+
+	- Ingreso a servidor
+	- Carga de backup 9 de agosto
+
+9182020 07:11 - 10:41
+
+	- Organizacion de contenidos dentro del servidor
+	- Capacitacion chamilo (Registrada)
+	- Creacion de curso competencias comunicativas 3 backup 9 de agosto
+	  para comparacion de contenidos con el curso actual
+
+9212020 07:29 - 12:29
+
+	- Continuacion organizacion de contenidos dentro del servidor
+	- 	Finalizacion correccion PS2_B1_U3 (formato control unidades)
+	- 	Inicio correcion PS3_B1_U3
+	- 	Finalizacion correccion PS3_B1_U3 (formato control unidades)
+	- 	Inicio correcion PS4_B1_U3
+	- 	Finalizacion correccion PS4_B1_U3 (formato control unidades)
+	- 	Inicio correcion PS5_B1_U3
+	- 	Finalizacion correccion PS5_B1_U3 (formato control unidades)
+	- Finalizacion correccion PS_B1_U3 (PDF formato control de unidades)
+
+9222020 07:08 - 12:08
+
+	- Inicio correccion PM_B1_U3
+	- 	Inicio correccion PM1_B1_U3
+	- 	Finalizacion correccion PM1_B1_U3 (formato control unidades)
+
+9232020 08:32 - 13:32
+
+	- 	Inicio correccion PM2_B1_U3
+	- 	Finalizacion correccion PM2_B1_U3 (formato control unidades)
+	- Inicio revision correcciones PS_B1_U2, 3
+	- 	Inicio revision correccion 1 PS1_B1_U2
+	- 	Finalizacion revision correccion 1 PS1_B1_U2 - ok
+	- 	Inicio revision correccion 1 PS1_B1_U3
+	- 	Finalizacion revision correccion 1 PS1_B1_U3 - ok
+	- 	Inicio revision correccion 1 PS2_B1_U2
+	- 	Finalizacion revision correccion 1 PS2_B1_U2 - ok
+	- 	Inicio revision correccion 1 PS2_B1_U3
+	- 	Finalizacion revision correccion 1 PS2_B1_U3 - ok
+	- 	Inicio revision correccion 1 PS3_B1_U2
+
+9242020 07:04 - 12:04
+
+	- 	Continuacion revision correccion 1 PS3_B1_U2
+	- 	Finalizacion revision correccion 1 PS3_B1_U2 - ok
+	- 	Inicio revision correccion 1 PS3_B1_U3
+	- 	Finalizacion revision correccion 1 PS3_B1_U3 - ok
+	- 	Inicio revision correccion 1 PS4_B1_U2
+	- 	Finalizacion revision correccion 1 PS4_B1_U2 - ok
+	- 	Inicio revision correccion 1 PS4_B1_U3
+	- 	Busqueda de especificaciones de archivo para subir tareas
+	- 	Finalizacion revision correccion 1 PS4_B1_U3 - ok
+	- 	Inicio revision correccion 1 PS5_B1_U2
+	- 	Finalizacion revision correccion 1 PS5_B1_U2 - ok
+	- 	Inicio revision correccion 1 PS5_B1_U3
+	- 	Finalizacion revision correccion 1 PS5_B1_U3 - ok
+	- 	Ajuste parametro prerequisito PS5_B1_U3, (no se avanza a la unidad 3 hasta completar 
+		la 2)
+	- 	Ajuste parametro prerequisito PS4_B1_U3, (no se avanza a la unidad 3 hasta completar 
+		la 2)
+	- 	Ajuste parametro prerequisito PS3_B1_U3, (no se avanza a la unidad 3 hasta completar 
+		la 2)
+	- 	Ajuste parametro prerequisito PS2_B1_U3, (no se avanza a la unidad 3 hasta completar 
+		la 2)
+	- 	Ajuste parametro prerequisito PS1_B1_U3, (no se avanza a la unidad 3 hasta completar 
+		la 2)
+	- 	Inicio correccion PM3_B1_U3
+
+9252020 07:20 - 12:20
+
+	- Revision problema imagen no visualizable
+	- 	Continuacion correccion PM3_B1_U3
+	- 	Finalizacion correccion PM3_B1_U3 (formato control unidades)
+	- 	Inicio correccion PM4_B1_U3
+	- 	Finalizacion correccion PM4_B1_U3 (formato control unidades)
+	- 	Inicio correccion PM5_B1_U3
+	- 	Finalizacion correccion PM5_B1_U3 (formato control unidades)
+	- Finalizacion correccion PM_B1_U3
+
+9282020 07:31 - 12:31
+
+	- Inicio correccion PM_B1_U2
+	- 	Inicio correccion PM1_B1_U2
+	- 	Finalizacion correccion PM1_B1_U2 (formato control unidades)
+	- 	Inicio correccion PM2_B1_U2
+	- 	Finalizacion correccion PM2_B1_U2 (formato control unidades)
+	- 	Inicio correccion PM3_B1_U2
+	- 	Finalizacion correccion PM3_B1_U2 (formato control unidades)
+
+9292020 08:09 - 13:09
+
+	- 	Inicio correccion PM4_B1_U2
+	- 	Finalizacion correccion PM4_B1_U2 (formato control unidades)
+	- 	Inicio correccion PM5_B1_U2
+	- 	Finalizacion correccion PM5_B1_U2 (formato control unidades)
+	- Finalizacion correccion PM_B1_U2
+	- Inicio correccion PM_B1_U1
+	- 	Inicio correccion PM1_B1_U1
+	- 	Finalizacion correccion PM1_B1_U1 (formato control unidades)
+	- 	Inicio correccion PM2_B1_U1
+
+9302020 07:19 - 12:19
+
+	- 	Continuacion correccion PM2_B1_U1
+	- 	Finalizacion correccion PM2_B1_U1 (formato control unidades)
+	- 	Inicio correccion PM3_B1_U1
+	- 	Finalizacion correccion PM3_B1_U1 (formato control unidades)
+	- 	Inicio correccion PM4_B1_U1
+	- 	Finalizacion correccion PM4_B1_U1 (formato control unidades)
+	- 	Inicio correccion PM5_B1_U1
+
+1012020 07:22 - 10:27
+
+	- 	Continuacion correccion PM5_B1_U1
+	- 	Finalizacion correccion PM5_B1_U1 (formato control unidades)
+	- Finalizacion correccion PM_B1_U1
+	- Backup Pensamiento social (carga en el servidor de la institucion)
+	- Backup Pensamiento matematico (carga en el servidor de la institucion)
+	- Inicio correccion PC_B1_U1
+	- 	Inicio correccion PC1_B1_U4
+	- 	Finalizacion correccion PC1_B1_U4 (formato control unidades)
+
+1022020 09:49 - 12:49
+
+	- 	Inicio correccion PC2_B1_U4
+	- 	Finalizacion correccion PC2_B1_U4 (formato control unidades)
+	- 	Inicio correccion PC3_B1_U4
+	- 	Finalizacion correccion PC3_B1_U4 (formato control unidades)
+	- 	Inicio correccion PC4_B1_U4
+	- 	Finalizacion correccion PC4_B1_U4 (formato control unidades)
+	- 	Inicio correccion PC5_B1_U4
+
+1052020 07:44 - 10:44
+
+	- Suspension correcion PC_B1_U4
+	- Inicio Estructuracion PS
+	- 	Inicio Estructuracion PS1
+	- 	Finalizacion Estructuracion PS1
+	- Reanudacion correcion PC_B1_U4
+	- 	Continuacion correccion PC5_B1_U4 
+	- 	Finalizacion correccion PC5_B1_U4 (formato control unidades)
+	- 	Inicio correccion PC1_B1_U3
+
+
+1062020 09:46 - 12:46
+
+	- 	Inicio Estructuracion PS2
+	- 	Finalizacion Estructuracion PS2
+	- 	Inicio Estructuracion PS3
+	- 	Finalizacion Estructuracion PS3
+	- 	Inicio Estructuracion PS4
+	- 	Finalizacion Estructuracion PS3
+	- 	Inicio Estructuracion PS5
+	- 	Finalizacion Estructuracion PS5
+	- Finalizacion Estructuracion PS
+	- Backup Pensamiento social (carga en el servidor de la institucion)
+	- Inicio Estructuracion PM
+	- 	Inicio Estructuracion PM1
+	- 	Finalizacion Estructuracion PM1
+	- 	Inicio Estructuracion PM2
+
+1072020 08:26 - 11:39
+
+	- 	Continuacion Estructuracion PM2
+	- 	Finalizacion Estructuracion PM2
+	- 	Inicio Estructuracion PM3
+	- 	Finalizacion Estructuracion PM3
+	- 	Inicio Estructuracion PM4
+	- 	Finalizacion Estructuracion PM4
+	- 	Inicio Estructuracion PM5
+	- 	Finalizacion Estructuracion PM5
+	- Finalizacion Estructuracion PM
+	- Backup Pensamiento matematico(carga en el servidor de la institucion)
+	- Inicio Estructuracion CC
+	- 	Inicio Estructuracion CC1
+	- 	Finalizacion Estructuracion CC1
+	- 	Inicio Estructuracion CC2
+	- 	Finalizacion Estructuracion CC2
+	- 	Inicio Estructuracion CC3
+	- 	Finalizacion Estructuracion CC3
+	- 	Inicio Estructuracion CC4
+	- 	Finalizacion Estructuracion CC4
+	- 	Inicio Estructuracion CC5
+	- 	Finalizacion Estructuracion CC5
+	- Finalizacion Estructuracion CC
+	- Backup Competencias comunicativas(carga en el servidor de la institucion)
+
+1082020 08:50 - 11:50
+
+	- Inicio Estructuracion PC
+	- 	Inicio Estructuracion PC1
+	- 	Finalizacion Estructuracion PC1
+	- 	Inicio Estructuracion PC2
+	- 	Finalizacion Estructuracion PC2
+	- 	Inicio Estructuracion PC3
+	- 	Finalizacion Estructuracion PC3
+	- 	Inicio Estructuracion PC4
+	- 	Finalizacion Estructuracion PC4
+	- 	Inicio Estructuracion PC5
+	- 	Finalizacion Estructuracion PC5
+	- Finalizacion Estructuracion PC
+	- Backup Pensamiento cientifico(carga en el servidor de la institucion)
+
+10102020 19:00 - 22:00
+
+	- Configuracion de prerequisitos PS 5
+	- Configuracion de prerequisitos PS 4
+	- Configuracion de prerequisitos PS 3
+	- Configuracion de prerequisitos PS 2
+	- Configuracion de prerequisitos PS 1 
+	- Configuracion de prerequisitos CC 3 
+	- Configuracion de prerequisitos PM 1 
+	- Configuracion de prerequisitos PM 2
+	- Configuracion de prerequisitos PM 3
+	- Configuracion de prerequisitos CC 1
+	- Configuracion de prerequisitos CC 2
+
+10132020 8:45 - 11:45
+
+	- Configuracion de prerequisitos CC 4
+	- Configuracion de prerequisitos CC 5
+	- Configuracion de prerequisitos PM 4
+	- Configuracion de prerequisitos PM 5
+	- Configuracion de prerequisitos PC 1
+	- Configuracion de prerequisitos PC 2
+	- Configuracion de prerequisitos PC 3
+	- Configuracion de prerequisitos PC 4
+	- Configuracion de prerequisitos PC 5
+	- Backup Pensamiento social(carga en el servidor de la institucion)
+	- Backup Competencias comunicativas(carga en el servidor de la institucion)
+	- Backup Pensamiento matematico(carga en el servidor de la institucion)
+	- Reanudacion correccion PC_B1_U3
+	- 	Inicio correccion PC1_B1_U3
+
+10142020 6:36 - 9:20
+
+	- Diseño del "Formato para el control de revision de unidades"
+
+10152020 8:14, 9:16 - 10:57, 12:57
+
+	- Cambio de nombre del "Formato para el control de revision de unidades" por 
+	  "Formato para el control de unidades".
+	- Creacion de carpeta en drive "Control de unidades" donde se alojan las carpetas
+	  de cada curso.
+	- Copia del "FCU" en cada carpeta del curso para llevar seguimiento del control 
+	  de las revisiones de las unidades.
+	- Copia y configuracion de los "FRU" en formatos de hoja de calculo y pdf en cada curso
+	- Diligenciamiento de "FCU" segun la "FRU" emitidos al momento
+	- 	Diligenciamiento "FCU" Pensamiento cientifico
+	- 	Diligenciamiento "FCU" Pensamiento matemático
+
+10162020 10:15 - 10:57, 13:15
+
+	- 	Diligenciamiento "FCU" Pensamiento social
+	- Reanudacion correccion PC_B1_U3
+	- 	Inicio correccion PC1_B1_U3
+	- 	Finalizacion correccion PC1_B1_U3 (FRU)
+	- 	Inicio correccion PC2_B1_U3
+	- 	Finalizacion correccion PC2_B1_U3 (FRU)
+	- 	Inicio correccion PC3_B1_U3 (Entorno fisico)
+
+10192020 10:04 - 13:04
+
+	- Suspension correccion PC_B1_U3
+	- Inicio correccion PM3-5_B2_U1
+	- 	Inicio correccion PM3_B2_U1
+	- 	Finalizcion correccion PM3_B2_U1 (FRU)
+	- 	Inicio correccion PM4_B2_U1
+	- 	Finalizcion correccion PM4_B2_U1 (FRU)
+	- 	Inicio correccion PM5_B2_U1
+	- 	Finalizcion correccion PM5_B2_U1 (FRU)
+	- Inicio correccion PM3-5_B2_U1
+
+10202020 11:16 - 13:51
+
+	- Reanudacion correccion PC_B1_U3
+	- 	Inicio correccion PC3_B1_U3
+	- 	Finalizacion correccion PC3_B1_U3 (FRU)
+	- 	Inicio correccion PC4_B1_U3
+	- 	Finalizacion correccion PC4_B1_U3 (FRU)
+	- 	Inicio correccion PC5_B1_U3
+	- 	Finalizacion correccion PC5_B1_U3 (FRU)
+	- Finalizacion correccion PC_B1_U3 (Registro en FCU y envió)
+
+10212020 11:21 - 14:40
+
+	- Inicio correccion PMC_B1_U2
+	- 	Inicio correccion PC1_B1_U2
+	- 	Finalizcion correccion PC1_B1_U2 (FRU)
+	- 	Inicio correccion PC2_B1_U2
+	- 	Finalizcion correccion PC2_B1_U2 (FRU)
+	- 	Inicio correccion PC3_B1_U2
+	- 	Finalizcion correccion PC3_B1_U2 (FRU)
+	- 	Inicio correccion PC4_B1_U2
+
+10222020 10:23 - 13:23
+
+	- Continuacion correccion PMC_B1_U2
+	- 	Continuacion correccion PC4_B1_U2
+	- 	Finalizcion correccion PC4_B1_U2 (FRU)
+	- 	Inicio correccion PC5_B1_U2
+	- 	Finalizcion correccion PC5_B1_U2 (FRU)
+	- Finalizacion correccion PC_B1_U2 (Registro en FCU y envió)
+	- Inicio correccion T_B2_U1
+
+10232020 12:30 - 15:30
+
+	- Continuacion correccion T_B2_U1
+	- Finalizacion correccion T_B2_U1 (Registro en FCU y envió)
+	- Inicio correccion PS_B2_U1
+	- 	Inicio correccion PS1_B2_U1
+
+10262020 10:29 - 14:00
+
+	- 	Continuacion correccion PS1_B2_U1
+	- 	Finalizacion correccion PS1_B2_U1 (FRU)
+	- 	Inicio correccion PS2_B2_U1
+	- 	Finalizacion correccion PS2_B2_U1 (FRU)
+	- 	Inicio correccion PS3_B2_U1
+	- 	Finalizacion correccion PS3_B2_U1 (FRU)
+	- 	Inicio correccion PS4_B2_U1
+	- 	Finalizacion correccion PS4_B2_U1 (FRU)
+	- 	Inicio correccion PS5_B2_U1
+	- 	Finalizacion correccion PS5_B2_U1 (FRU)
+	- Inicio correccion PS_B2_U1  (Registro en FCU y envió)
+
+10272020 08:00 - 11:00
+
+	- Inicio correccion PC_B1_U1
+	- 	Inicio correccion PC1_B1_U1
+	- 	Finalizacion correccion PC1_B1_U1 (FRU)
+	- 	Inicio correccion PC2_B1_U1
+
+10282020 13:00 - 16:28
+
+	- 	Continuacion correccion PC2_B1_U1
+	- 	Finalizacion correccion PC2_B1_U1 (FRU)
+	- 	Inicio correccion PC3_B1_U1
+	- 	Finalizacion correccion PC3_B1_U1 (FRU)
+	- 	Inicio correccion PC4_B1_U1
+	- 	Finalizacion correccion PC4_B1_U1 (FRU)
+	- 	Inicio correccion PC5_B1_U1
+	- 	Finalizacion correccion PC5_B1_U1 (FRU)
+	- Finalizacion correccion PC_B1_U1 (Registro en FCU y envió)
+
+10292020 08:34 - 11:34
+
+	- Inicio correccion PM3-5_B2_U2
+	- 	Inicio correccion PM3_B2_U2
+	- 	Finalizacion correccion PM3_B2_U2 (FRU)
+	- 	Inicio correccion PM4_B2_U2
+	- 	Finalizacion correccion PM4_B2_U2 (FRU)
+	- 	Inicio correccion PM5_B2_U2
+	- 	Finalizacion correccion PM5_B2_U2 (FRU)
+	- Finalizacion correccion PM3-5_B2_U2 (Registro en FCU y envió)
+
+
+10302020 11:14 - 14:27
+
+	- Inicio correccion CC_B1_U4
+	- 	Inicio correccion CC1_B1_U4
+	- 	Finalizacion correccion CC1_B1_U4 (FRU)
+	- 	Inicio correccion CC2_B1_U4
+	- 	Finalizacion correccion CC2_B1_U4 (FRU)
+	- 	Inicio correccion CC3_B1_U4
+
+1132020 11:26 - 14:48
+
+	- Continuacion correccion CC_B1_U4
+	- 	Finalizacion correccion CC3_B1_U4 (FRU)
+	- 	Inicio correccion CC4_B1_U4
+	- 	Finalizacion correccion CC4_B1_U4 (FRU)
+	- 	Inicio correccion CC5_B1_U4
+	- 	Finalizacion correccion CC5_B1_U4 (FRU)
+	- Finalizacion correccion CC_B1_U4
+
+1142020 10:00 - 13:00
+
+	- Inicio correccion CC_B1_U3
+	- 	Inicio correccion CC1_B1_U3
+	- 	Finalizacion correccion CC1_B1_U3 (FRU)
+	- 	Inicio correccion CC2_B1_U3
+	- 	Finalizacion correccion CC2_B1_U3 (FRU)
+	- 	Inicio correccion CC3_B1_U3
+
+1152020 08:37 - 11:37
+
+	- Continuacion correccion CC_B1_U3
+	- 	Finalizacion correccion CC3_B1_U3 (FRU)
+	- 	Inicio correccion CC4_B1_U3
+	- 	Finalizacion correccion CC4_B1_U3 (FRU)
+	- 	Inicio correccion CC5_B1_U3
+	- 	Finalizacion correccion CC4_B1_U3 (FRU)
+	- Finalizacion correccion CC_B1_U3
+
+11102020 7:47 - 10:47
+
+	- Inicio correccion CC_B1_U2
+	- 	Inicio correccion CC1_B1_U2
+	- 	Finalizacion correccion CC1_B1_U2 (FRU)
+	- 	Inicio correccion CC2_B1_U2
+	- 	Finalizacion correccion CC3_B1_U2 (FRU)
+	- 	Inicio correccion CC3_B1_U2
+
+11112020 12:07 - 15:07
+
+	- Suspension correccion CC_B1_U3
+	- Correcion problema (Actividades exploratorias) CC_B1_U4 - 2
+	-	CC1_B1_U4 - ok
+	-	CC1_B1_U3 - ok
+	-	CC1_B1_U2 - ok	
+	-	CC2_B1_U4 - ok	
+	-	CC2_B1_U3 - ok
+	-	CC2_B1_U2 - ok
+	-	CC3_B1_U4 - ok	
+	-	CC3_B1_U3 - ok
+	-	CC3_B1_U2 - ok
+	-	CC4_B1_U4 - ok	
+	-	CC4_B1_U3 - ok
+	-	CC5_B1_U4 - ok	
+	-	CC5_B1_U3 - ok
+	- Finalizacion correcion problema (Actividades exploratorias) CC_B1_U4 - 2
+	- Continuacion correccion CC_B1_U3
+	- 	Finalizacion correccion CC3_B1_U2 (FRU)
+	- 	Inicio correccion CC4_B1_U2
+	- 	Finalizacion correccion CC4_B1_U2 (FRU)
+
+11122020 09:55 - 12:55
+
+	- 	Inicio correccion CC5_B1_U2
+	- 	Finalizacion correccion CC5_B1_U2 (FRU)
+
+11172020 10:00 - 13:00
+
+	- Inicio correccion CC_B1_U1
+	- 	Inicio correccion CC1_B1_U1
+	- 	Finalizacion correccion CC1_B1_U1 (FRU)
+	- 	Inicio correccion CC2_B1_U1
+	- 	Finalizacion correccion CC2_B1_U1 (FRU)
+	- 	Inicio correccion CC3_B1_U1
+	- 	Finalizacion correccion CC3_B1_U1 (FRU)
+
+11182020 13:51 - 16:51
+
+	- Continuacion correccion CC_B1_U1
+	- 	Inicio correccion CC4_B1_U1
+	- 	Finalizacion correccion CC4_B1_U1 (FRU)
+	- 	Inicio correccion CC5_B1_U1
+	- 	Finalizacion correccion CC5_B1_U1 (FRU)
+	- Finalizacion correccion CC_B1_U1
+	- Backup y carga al servidor CC_B1 
+
+11192020 08:54 - 12:20
+
+	- Configuracion prerequisitos (de un bimestre a otro)
+	- 	Configuracion prerequisitos T - ok
+	- 	Configuracion prerequisitos PS5 - ok
+	- 	Configuracion prerequisitos PS4 - ok
+	- 	Configuracion prerequisitos PS3 - ok
+	- 	Configuracion prerequisitos PS2 - ok
+	- 	Configuracion prerequisitos PS1 - ok
+	- 	Configuracion prerequisitos CC3 - ok
+	- 	Configuracion prerequisitos PM2 - ok
+	- 	Configuracion prerequisitos PM3 - ok
+	- 	Configuracion prerequisitos CC1 - ok
+	- 	Configuracion prerequisitos CC2 - ok
+	- 	Configuracion prerequisitos CC4 - ok
+	- 	Configuracion prerequisitos CC5 - ok
+	- 	Configuracion prerequisitos PM4 - ok
+	- 	Configuracion prerequisitos PM5 - ok
+	- 	Configuracion prerequisitos PC1 - ok
+	- 	Configuracion prerequisitos PC2 - ok
+	- 	Configuracion prerequisitos PC3 - ok
+	- 	Configuracion prerequisitos PC4 - ok
+	- 	Configuracion prerequisitos PC5 - ok
+	- Finalizacion configuracion prerequisitos (de un bimestre a otro)
+	- Backup y carga al servidor T
+	- Backup y carga al servidor PS
+	- Backup y carga al servidor CC
+	- Backup y carga al servidor PM
+	- Backup y carga al servidor PC
+
+11202020 09:46 - 12:46
+
+	- Inicio correccion T_B2_U1
+	- Finalizacion correccion T_B2_U1 (FRU)
+
+11232020 09:21 - 12:21
+
+	- Inicio correccion PS_B2_U1
+	- 	Inicio correccion PS1_B2_U1
+	- Correccion errores Saolomon Gandour, Salome Rojas
+	- 	Finalizacion correccion PS1_B2_U1 (FRU)
+	- 	Inicio correccion PS2_B2_U1
+	- 	Finalizacion correccion PS2_B2_U1 (FRU)
+	- 	Inicio correccion PS3_B2_U1
+	- 	Finalizacion correccion PS3_B2_U1 (FRU)
+
+11242020 07:35 - 10:35
+
+	- correccion error descripcion actividades entregables
+	-	T_B1_U1 - ok
+	-	T_B1_U2 - ok
+	-	T_B2_U1 - ok
+	-	PS5_B1_U1 - ok
+	-	PS5_B1_U2 - ok
+	-	PS5_B1_U3 - ok
+	-	PS5_B1_U4 - ok
+	-	PS4_B1_U1 - ok
+	-	PS4_B1_U2 - ok
+	-	PS4_B1_U3 - ok
+	-	PS4_B1_U4 - ok
+	-	PS3_B1_U1 - ok
+	-	PS3_B1_U2 - ok
+	-	PS3_B1_U3 - ok
+	-	PS3_B1_U4 - ok
+	-	PS2_B1_U1 - ok
+	-	PS2_B1_U2 - ok
+	-	PS2_B1_U3 - ok
+	-	PS2_B1_U4 - ok
+	-	PS1_B1_U1 - ok
+	-	PS1_B1_U2 - ok
+	-	PS1_B1_U3 - ok
+	-	PS1_B1_U4 - ok
+
+11242020 15:08 - 18:35
+
+	-	CC1_B1_U1 - ok
+	-	CC1_B1_U2 - ok
+	-	CC1_B1_U3 - ok
+	-	CC1_B1_U4 - ok
+	-	CC2_B1_U1 - ok
+	-	CC2_B1_U2 - ok
+	-	CC2_B1_U3 - ok
+	-	CC2_B1_U4 - ok
+	-	CC3_B1_U1 - ok
+	-	CC3_B1_U2 - ok
+	-	CC3_B1_U3 - ok
+	-	CC3_B1_U4 - ok
+	-	CC4_B1_U1 - ok
+	-	CC4_B1_U2 - ok
+	-	CC4_B1_U3 - ok
+	-	CC4_B1_U4 - ok
+	-	CC5_B1_U1 - ok
+	-	CC5_B1_U2 - ok
+	-	CC5_B1_U3 - ok
+	-	CC5_B1_U4 - ok
+
+11262020 9:20 - 12:20
+
+	- 	PM1_B1_U1 - ok
+	- 	PM1_B1_U2 - ok
+	- 	PM1_B1_U3 - ok
+	- 	PM1_B1_U4 - ok
+	- 	PM2_B1_U1 - ok
+	- 	PM2_B1_U2 - ok
+	- 	PM2_B1_U3 - ok
+	- 	PM2_B1_U4 - ok
+	- 	PM3_B1_U1 - ok
+	- 	PM3_B1_U2 - ok
+	- 	PM3_B1_U3 - ok
+	- 	PM3_B1_U4 - ok
+	- 	PM4_B1_U1 - ok
+	- 	PM4_B1_U2 - ok
+	- 	PM4_B1_U3 - ok
+	- 	PM4_B1_U4 - ok
+	- 	PM5_B1_U1 - ok
+	- 	PM5_B1_U2 - ok
+	- 	PM5_B1_U3 - ok
+	- 	PM5_B1_U4 - ok
+
+11272020 08:00 - 11:00
+
+	- 	PC1_B1_U1 - ok
+	- 	PC1_B1_U2 - ok
+	- 	PC1_B1_U3 - ok
+	- 	PC1_B1_U4 - ok
+	- 	PC2_B1_U1 - ok
+	- 	PC2_B1_U2 - ok
+	- 	PC2_B1_U3 - ok
+	- 	PC2_B1_U4 - ok
+	- 	PC3_B1_U1 - ok
+	- 	PC3_B1_U2 - ok
+	- 	PC3_B1_U3 - ok
+	- 	PC3_B1_U4 - ok
+	- 	PC4_B1_U1 - ok
+	- 	PC4_B1_U2 - ok
+	- 	PC4_B1_U3 - ok
+	- 	PC4_B1_U4 - ok
+	- 	PC5_B1_U1 - ok
+	- 	PC5_B1_U2 - ok
+	- 	PC5_B1_U3 - ok
+	- 	PC5_B1_U4 - ok
+
+11302020 14:29 - 18:47
+
+	- Backup y carga al servidor T
+	- Backup y carga al servidor PS
+	- Backup y carga al servidor CC
+	- Backup y carga al servidor PM
+	- Backup y carga al servidor PC
+	- Backup y carga al servidor Bachillerato (120)
+
+1212020 07:53 - 10:53
+
+	- Backup y carga al servidor Bachillerato (120)
+
+1232020 09:26 - 13:26
+
+	- Inicio correccion T
+	-	Inicio revision actividades entregables T_B1_U1
+	-	Finalizacion revision actividades entregables T_B1_U1
+	-	Inicio revision actividades entregables T_B1_U2
+	-	Finalizacion revision actividades entregables T_B1_U2
+	-	Inicio revision T_B2_U1
+	-	Finalizacion revision T_B2_U1
+	-	Inicio revision T_B2_U2 (motricidad fina)
+
+1242020 09:26 - 13:26
+
+	- 
+
+12102020 11:21 - 14:21
+
+	- 	Finalizacion revision T_B2_U2 (FRU)
+	- Finalizacion correccion T_B2_U2 (Registro en FCU y envió)
+	- Inicio correccion PS
+	- 	Inicio revision actividades entregables PS1_B1_U1
+	- 	Finalizacion revision actividades entregables PS1_B1_U1
+	- 	Inicio revision actividades entregables PS1_B1_U2
+	- 	Finalizacion revision actividades entregables PS1_B1_U2
+	- 	Inicio revision actividades entregables PS1_B1_U3
+	- 	Finalizacion revision actividades entregables PS1_B1_U3
+	- 	Inicio revision actividades entregables PS1_B1_U4
+	- 	Finalizacion revision actividades entregables PS1_B1_U4
+	- 	Inicio revision actividades entregables PS2_B1_U1
+	- 	Finalizacion revision actividades entregables PS2_B1_U1
+	- 	Inicio revision actividades entregables PS2_B1_U2
+	- 	Finalizacion revision actividades entregables PS2_B1_U2
+	- 	Inicio revision actividades entregables PS2_B1_U3
+	- 	Finalizacion revision actividades entregables PS2_B1_U3
+	- 	Inicio revision actividades entregables PS2_B1_U4
+	- 	Finalizacion revision actividades entregables PS2_B1_U4
+	- 	Inicio revision actividades entregables PS3_B1_U1
+	- 	Finalizacion revision actividades entregables PS3_B1_U1
+	- 	Inicio revision actividades entregables PS3_B1_U2
+	- 	Finalizacion revision actividades entregables PS3_B1_U2
+	- 	Inicio revision actividades entregables PS3_B1_U3
+	- 	Finalizacion revision actividades entregables PS3_B1_U3
+	- 	Inicio revision actividades entregables PS3_B1_U4
+	- 	Finalizacion revision actividades entregables PS3_B1_U4
+	- 	Inicio revision actividades entregables PS4_B1_U1
+	- 	Finalizacion revision actividades entregables PS4_B1_U1
+	- 	Inicio revision actividades entregables PS4_B1_U2
+	- 	Finalizacion revision actividades entregables PS4_B1_U2
+	- 	Inicio revision actividades entregables PS4_B1_U3
+	- 	Finalizacion revision actividades entregables PS4_B1_U3
+	- 	Inicio revision actividades entregables PS4_B1_U4
+	- 	Finalizacion revision actividades entregables PS4_B1_U4
+	- 	Inicio revision actividades entregables PS5_B1_U1
+	- 	Finalizacion revision actividades entregables PS5_B1_U1
+
+12112020 4:30 - 6:30, 21:30 - 22:30
+
+	- 	Inicio revision actividades entregables PS5_B1_U1
+	- 	Finalizacion revision actividades entregables PS5_B1_U1
+	- 	Inicio revision actividades entregables PS5_B1_U2
+	- 	Finalizacion revision actividades entregables PS5_B1_U2
+	- 	Inicio revision actividades entregables PS5_B1_U3
+	- 	Finalizacion revision actividades entregables PS5_B1_U3
+	- 	Inicio revision actividades entregables PS5_B1_U4
+	- 	Finalizacion revision actividades entregables PS5_B1_U4
+	- Finalizacion correccion PS
+	- Inicio correccion CC
+	- 	Inicio revision actividades entregables CC1_B1_U1
+	- 	Finalizacion revision actividades entregables CC1_B1_U1
+	- 	Inicio revision actividades entregables CC1_B1_U2
+	- 	Finalizacion revision actividades entregables CC1_B1_U2
+	- 	Inicio revision actividades entregables CC1_B1_U3
+	- 	Finalizacion revision actividades entregables CC1_B1_U3
+	- 	Inicio revision actividades entregables CC1_B1_U4
+	- 	Finalizacion revision actividades entregables CC1_B1_U4
+	- 	Inicio revision actividades entregables CC2_B1_U1
+	- 	Finalizacion revision actividades entregables CC2_B1_U1
+	- 	Inicio revision actividades entregables CC2_B1_U2
+	- 	Finalizacion revision actividades entregables CC2_B1_U2
+	- 	Inicio revision actividades entregables CC2_B1_U3
+	- 	Finalizacion revision actividades entregables CC2_B1_U3
+	- 	Inicio revision actividades entregables CC2_B1_U4
+	- 	Finalizacion revision actividades entregables CC2_B1_U4
+	- 	Inicio revision actividades entregables CC3_B1_U1
+	- 	Finalizacion revision actividades entregables CC3_B1_U1
+	- 	Inicio revision actividades entregables CC3_B1_U2
+	- 	Finalizacion revision actividades entregables CC3_B1_U2
+	- 	Inicio revision actividades entregables CC3_B1_U3
+	- 	Finalizacion revision actividades entregables CC3_B1_U3
+	- 	Inicio revision actividades entregables CC3_B1_U4
+	- 	Finalizacion revision actividades entregables CC3_B1_U4
+	- 	Inicio revision actividades entregables CC4_B1_U1
+	- 	Finalizacion revision actividades entregables CC4_B1_U1
+	- 	Inicio revision actividades entregables CC4_B1_U2
+	- 	Finalizacion revision actividades entregables CC4_B1_U2
+	- 	Inicio revision actividades entregables CC4_B1_U3
+	- 	Finalizacion revision actividades entregables CC4_B1_U3
+	- 	Inicio revision actividades entregables CC4_B1_U4
+	- 	Finalizacion revision actividades entregables CC4_B1_U4
+	- 	Inicio revision actividades entregables CC5_B1_U1
+	- 	Finalizacion revision actividades entregables CC5_B1_U1
+	- 	Inicio revision actividades entregables CC5_B1_U2
+	- 	Finalizacion revision actividades entregables CC5_B1_U2
+	- 	Inicio revision actividades entregables CC5_B1_U3
+	- 	Finalizacion revision actividades entregables CC5_B1_U3
+	- 	Inicio revision actividades entregables CC5_B1_U4
+	- 	Finalizacion revision actividades entregables CC5_B1_U4
+	- Finalizacion correccion CC
+
+12142020 5:30 - 6:30, 21:15 - 10:35
+
+	- Inicio correccion PM
+	- 	Inicio revision actividades entregables PM1_B1_U1
+	- 	Finalizacion revision actividades entregables PM1_B1_U1
+	- 	Inicio revision actividades entregables PM1_B1_U2
+	- 	Finalizacion revision actividades entregables PM1_B1_U2
+	- 	Inicio revision actividades entregables PM1_B1_U3
+	- 	Finalizacion revision actividades entregables PM1_B1_U3
+	- 	Inicio revision actividades entregables PM1_B1_U4
+	- 	Finalizacion revision actividades entregables PM1_B1_U4
+	- 	Inicio revision actividades entregables PM2_B1_U1
+	- 	Finalizacion revision actividades entregables PM2_B1_U1
+	- 	Inicio revision actividades entregables PM2_B1_U2
+	- 	Finalizacion revision actividades entregables PM2_B1_U2
+	- 	Inicio revision actividades entregables PM2_B1_U3
+	- 	Finalizacion revision actividades entregables PM2_B1_U3
+	- 	Inicio revision actividades entregables PM2_B1_U4
+	- 	Finalizacion revision actividades entregables PM2_B1_U4
+	- 	Inicio revision actividades entregables PM3_B1_U1
+	- 	Finalizacion revision actividades entregables PM3_B1_U1
+	- 	Inicio revision actividades entregables PM3_B1_U2
+	- 	Finalizacion revision actividades entregables PM3_B1_U2
+	- 	Inicio revision actividades entregables PM3_B1_U3
+	- 	Finalizacion revision actividades entregables PM3_B1_U3
+	- 	Inicio revision actividades entregables PM3_B1_U4
+	- 	Finalizacion revision actividades entregables PM3_B1_U4
+	- 	Inicio revision actividades entregables PM4_B1_U1
+	- 	Finalizacion revision actividades entregables PM4_B1_U1
+	- 	Inicio revision actividades entregables PM4_B1_U2
+	- 	Finalizacion revision actividades entregables PM4_B1_U2
+	- 	Inicio revision actividades entregables PM4_B1_U3
+	- 	Finalizacion revision actividades entregables PM4_B1_U3
+	- 	Inicio revision actividades entregables PM4_B1_U4
+	- 	Finalizacion revision actividades entregables PM4_B1_U4
+	- 	Inicio revision actividades entregables PM5_B1_U1
+	- 	Finalizacion revision actividades entregables PM5_B1_U1
+	- 	Inicio revision actividades entregables PM5_B1_U2
+	- 	Finalizacion revision actividades entregables PM5_B1_U2
+	- 	Inicio revision actividades entregables PM5_B1_U3
+	- 	Finalizacion revision actividades entregables PM5_B1_U3
+	- 	Inicio revision actividades entregables PM5_B1_U4
+	- 	Finalizacion revision actividades entregables PM5_B1_U4
+	- Finalizacion correccion PM
+
+12142020 9:49 - 12:49
+
+	- Actividades entregables PM3_B2_U3
+	- Actividades entregables PM4_B2_U2
+	- Inicio correccion PC
+	- 	Inicio revision actividades entregables PC1_B1_U1
+	- 	Finalizacion revision actividades entregables PC1_B1_U1
+	- 	Inicio revision actividades entregables PC1_B1_U2
+	- 	Finalizacion revision actividades entregables PC1_B1_U2
+	- 	Inicio revision actividades entregables PC1_B1_U3
+	- 	Finalizacion revision actividades entregables PC1_B1_U3
+	- 	Inicio revision actividades entregables PC1_B1_U4
+	- 	Finalizacion revision actividades entregables PC1_B1_U4
+	- 	Inicio revision actividades entregables PC2_B1_U1
+	- 	Finalizacion revision actividades entregables PC2_B1_U1
+	- 	Inicio revision actividades entregables PC2_B1_U2
+	- 	Finalizacion revision actividades entregables PC2_B1_U2
+	- 	Inicio revision actividades entregables PC2_B1_U3
+	- 	Finalizacion revision actividades entregables PC2_B1_U3
+	- 	Inicio revision actividades entregables PC2_B1_U4
+	- 	Finalizacion revision actividades entregables PC2_B1_U4
+	- 	Inicio revision actividades entregables PC3_B1_U1
+	- 	Finalizacion revision actividades entregables PC3_B1_U1
+	- 	Inicio revision actividades entregables PC3_B1_U2
+	- 	Finalizacion revision actividades entregables PC3_B1_U2
+	- 	Inicio revision actividades entregables PC3_B1_U3
+	- 	Finalizacion revision actividades entregables PC3_B1_U3
+	- 	Inicio revision actividades entregables PC3_B1_U4
+	- 	Finalizacion revision actividades entregables PC3_B1_U4
+	- 	Inicio revision actividades entregables PC4_B1_U1
+	- 	Finalizacion revision actividades entregables PC4_B1_U1
+	- 	Inicio revision actividades entregables PC4_B1_U2
+	- 	Finalizacion revision actividades entregables PC4_B1_U2
+	- 	Inicio revision actividades entregables PC4_B1_U3
+	- 	Finalizacion revision actividades entregables PC4_B1_U3
+	- 	Inicio revision actividades entregables PC4_B1_U4
+	- 	Finalizacion revision actividades entregables PC4_B1_U4
+	- 	Inicio revision actividades entregables PC5_B1_U1
+	- 	Finalizacion revision actividades entregables PC5_B1_U1
+	- 	Inicio revision actividades entregables PC5_B1_U2
+	- 	Finalizacion revision actividades entregables PC5_B1_U2
+	- 	Inicio revision actividades entregables PC5_B1_U3
+	- 	Finalizacion revision actividades entregables PC5_B1_U3
+	- 	Inicio revision actividades entregables PC5_B1_U4
+	- 	Finalizacion revision actividades entregables PC5_B1_U4
+	- Finalizacion correccion PC

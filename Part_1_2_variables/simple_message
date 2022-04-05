@@ -1,0 +1,3 @@
+# Como nombrar una variable
+var_1 = "como seria?"
+print (var_1)

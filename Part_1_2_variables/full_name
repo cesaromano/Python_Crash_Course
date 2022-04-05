@@ -1,0 +1,13 @@
+first_name = "elver"
+last_name = "galarga"
+# se usa "f" antes de iniciar el string para introducir variables dentro del string, cada variable estara dentro de llaves {}
+full_name = f"{first_name} {last_name}"
+print(f"Hola, {full_name.upper()}")
+print(f"Hola, {full_name.lower()}")
+print(f"Hola, {full_name.title()}")
+message = f"Hola, {full_name.title()}"
+print(message)
+print("Melo")
+print("\tRe Melo")
+print("Grados de melocidad:\nmelo\nRe melo\nMas melo")
+print("Grados de melocidad:\n\t- melo\n\t- Re melo\n\t- Mas melo")

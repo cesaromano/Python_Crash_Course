@@ -1,0 +1,5 @@
+# Si dentro del mensaje necesitamos poner "" para cerrar la variable se deben usar '' y visceversa
+var_2 = " 1'000.000 "
+var_3 = 'la dulce princesa explamó: "vamos a chupar guaro?"'
+print (var_2)
+print (var_3)

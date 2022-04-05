@@ -1,0 +1,10 @@
+# guardar una variable
+message = "que pasa putos!"
+# Imprimir esa variable
+print(message)
+
+message = "que pasa perros!"
+print(message) 
+
+mesage = "que pasa"
+print (mesage)

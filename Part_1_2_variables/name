@@ -1,0 +1,7 @@
+name = "cesar romano"
+# . title() da formato al string poniendo la inicial de cada palabra en mayuscula
+print (name.title())
+# . title() da formato al string poniendo las palabras en mayuscula
+print (name.upper())
+# . title() da formato al string poniendo las palabras en minuscula
+print (name.lower())
