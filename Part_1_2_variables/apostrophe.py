@@ -1,2 +1,2 @@
-# Ejemplo para demostrar error con comillas simples
+# Simplle quotes error
 message = 'pa' lante es pa' alla' 

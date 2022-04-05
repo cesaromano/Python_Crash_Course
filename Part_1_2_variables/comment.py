@@ -1,2 +1,2 @@
-# Di hola maldito (Ejemplo de como usar "#" para hacer comenarios)
+# We use '#' to comment
 print("Que pasa gente!")
